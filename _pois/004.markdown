@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q136545943
+title:  Καράμπελας Παναγιώτης
+---
+
+Sample text

@@ -33,8 +33,7 @@ permalink: /about/
 Για μεγάλου μεγέθους φωτογραφίες ή σαρώσεις εγγράφων:
 
 <p>
-  Παρακαλούμε χρησιμοποιήστε τον ειδικό φάκελο μας 
-  (https://ioniogr0-my.sharepoint.com/:f:/r/personal/inf_dig2408_ionio_gr/Documents/%CE%9A%CE%AF%CE%BD%CE%B7%CE%BC%CE%B1%20%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%85?csf=1&web=1&e=8blFIi):
+  Παρακαλούμε χρησιμοποιήστε τον ειδικό φάκελο μας (Google Drive Link):
   <a href="[Ο Σύνδεσμος σας για το Upload Folder]" target="_blank">
     <strong>[ΑΝΕΒΑΣΜΑ ΦΩΤΟΓΡΑΦΙΩΝ]</strong>
   </a>

@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q136546069
+title:  Μπουρδάρας Γεώργιος
+---
+
+Sample text

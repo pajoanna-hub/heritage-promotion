@@ -98,7 +98,7 @@ permalink: /info/
   Για **σαρώσεις εγγράφων, πρωτότυπο φωτογραφικό υλικό ή μεγάλα αρχεία**, παρακαλούμε χρησιμοποιήστε τον ειδικό κοινόχρηστο φάκελο μας.
   </p>
   
-  <a href="[Ο Σύνδεσμος σας για το Upload Folder]" target="_blank">
+  <a href="https://outlook.office365.com/host/377c982d-9686-450e-9a7c-22aeaf1bc162/7211f19f-262a-42eb-a02e-289956491741" target="_blank">
     <button style="background-color: #1a73e8;">
         ΑΝΕΒΑΣΜΑ ΑΡΧΕΙΩΝ & ΦΩΤΟΓΡΑΦΙΩΝ ⬆️
     </button>

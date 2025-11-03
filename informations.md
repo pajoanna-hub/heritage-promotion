@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Η συνεισφορά σας
+title: Η συμβολή σας
 permalink: /info/
 ---
 

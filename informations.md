@@ -98,7 +98,7 @@ permalink: /info/
   Για **σαρώσεις εγγράφων, πρωτότυπο φωτογραφικό υλικό ή μεγάλα αρχεία**, παρακαλούμε χρησιμοποιήστε τον ειδικό κοινόχρηστο φάκελο μας.
   </p>
   
-  <a href="https://outlook.office365.com/host/377c982d-9686-450e-9a7c-22aeaf1bc162/7211f19f-262a-42eb-a02e-289956491741" target="_blank">
+  <a href="https://ioniogr0-my.sharepoint.com/my?id=%2Fpersonal%2Finf%5Fdig2408%5Fionio%5Fgr%2FDocuments%2F%CE%9A%CE%AF%CE%BD%CE%B7%CE%BC%CE%B1%20%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%85&viewid=de81ce2b%2Dbf7e%2D442a%2Dae3a%2D08b3b19df6f0&login_hint=inf%2Edig2408%40ionio%2Egr&source=waffle" target="_blank">
     <button style="background-color: #1a73e8;">
         ΑΝΕΒΑΣΜΑ ΑΡΧΕΙΩΝ & ΦΩΤΟΓΡΑΦΙΩΝ ⬆️
     </button>

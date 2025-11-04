@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-### 📌 Σημείωση
 title: "🛡️Ιστοχώρος προβολής ιστορικού περιεχομένου"
 # email:inf.dig2408.gr
 description: >- # this means to ignore newlines until "baseurl:"

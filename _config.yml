@@ -13,7 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "🛡️Ιστοχώρος προβολής πολιτιστικού περιεχομένου"
+<div style="background-color: #F0F8FF; /* Πολύ ανοιχτό μπλε φόντο */
+            border: 2px solid #0056b3; /* Σκούρο μπλε περίγραμμα */
+            padding: 15px; /* Εσωτερικό περιθώριο */
+            margin: 20px 0; /* Εξωτερικό περιθώριο */
+            border-radius: 8px; /* Στρογγυλεμένες γωνίες */">
+    
+    <h3 style="color: #0056b3;">Σημαντική Πληροφορία</h3>
+    
+    <p>title: "🛡️Ιστοχώρος προβολής πολιτιστικού περιεχομένου"</p>
+
+</div>
+
 # email:inf.dig2408.gr
 description: >- # this means to ignore newlines until "baseurl:"
   Ο ιστοχώρος αυτός αναπτύχτηκε από τους Χρήστο Παπαϊωάννου & Ιωάννα Παπαγεωργίου,

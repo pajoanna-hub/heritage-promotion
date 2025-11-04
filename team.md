@@ -27,7 +27,6 @@ permalink: /team/
 Το πάθος μας για την ιστορία και οι τεχνικές μας δεξιότητες συνδυάστηκαν για να μετατρέψουν την ιστορική αφήγηση σε ένα σύγχρονο, λειτουργικό και αξιόπιστο ψηφιακό προϊόν.
 </p>
 
-<a href="https://youtu.be/AzpkxrdJv2M?si=ssVeL59qHqVqt6Q9"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ---
 *Τελευταία ενημέρωση: Οκτώβριος 2025*

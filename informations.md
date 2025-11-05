@@ -101,7 +101,7 @@ permalink: /info/
   Για **σαρώσεις εγγράφων, πρωτότυπο φωτογραφικό υλικό ή μεγάλα αρχεία**, παρακαλούμε χρησιμοποιήστε τον ειδικό κοινόχρηστο φάκελο μας.
   </p>
   
-  <a href="https://ioniogr0-my.sharepoint.com/my?id=%2Fpersonal%2Finf%5Fdig2408%5Fionio%5Fgr%2FDocuments%2F%CE%9A%CE%AF%CE%BD%CE%B7%CE%BC%CE%B1%20%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CE%AE%CF%82%20%CE%86%CE%BC%CF%85%CE%BD%CE%B1%CF%82&viewid=de81ce2b%2Dbf7e%2D442a%2Dae3a%2D08b3b19df6f0&login_hint=inf%2Edig2408%40ionio%2Egr&source=waffle" target="_blank">
+  <a href="https://drive.google.com/drive/folders/19DjVwrEBRG-F7T92tgCNNhhgDCYSx1WU?usp=sharing" target="_blank">
     <button style="background-color: #1a73e8;">
         ΑΝΕΒΑΣΜΑ ΑΡΧΕΙΩΝ & ΦΩΤΟΓΡΑΦΙΩΝ ⬆️
     </button>

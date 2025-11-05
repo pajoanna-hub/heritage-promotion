@@ -18,7 +18,7 @@ permalink: /about/
 
 ---
 # Κρυπτογραφικοί όροι Κινήματος Εθνικής Αμύνης
-📽️ Παρακολούθησε ένα αξιόλογο video : <a href="https://www.youtube.com/shorts/8bJyH2R9G9U"><img src="https://pajoanna-hub.github.io/heritage-promotion/assets/js/kinima_ethnikis_amynas.jpg" 
+📽️ Παρακολούθησε ένα αξιόλογο video : <a href="https://www.youtube.com/shorts/8bJyH2R9G9U"><img src="https://pajoanna-hub.github.io/heritage-promotion/assets/js/video.png" 
 alt="Κρυπτογραφικοί όροι Κινήματος Εθνικής Αμύνης" width="100" height="80" border="5" /></a>
 
 ---

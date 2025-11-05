@@ -66,7 +66,6 @@ permalink: /info/
   </a>
 </div>
 
-
 <div id="contact-form-area">
 ### 📝 Γρήγορη Υποβολή Πληροφοριών (Φόρμα)
 
@@ -87,10 +86,11 @@ permalink: /info/
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">Υποβολή</button>
 </form>
 </div>
 
+---
 ---
 
 ## 2. 🖼️ Υποβολή Φωτογραφικού Υλικού & Εγγράφων

@@ -4,4 +4,3 @@ wikidatum: Q136545911
 title:  Κανελλόπουλος Ιωάννης
 ---
 
-Sample text

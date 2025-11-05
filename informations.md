@@ -74,19 +74,21 @@ permalink: /info/
 Χρησιμοποιήστε την παρακάτω φόρμα για να μας στείλετε σύντομες βιογραφικές σημειώσεις ή πληροφορίες.
 </p>
 
-<form action="https://formspree.io/f/xldoqeeb" method="POST">
-    <label for="name">👤 Ονοματεπώνυμο:</label>
-    <input type="text" name="Όνομα" required>
-    
-    <label for="email">✉️ Email:</label>
-    <input type="email" name="Email" required>
-    
-    <label for="message">📜 Πληροφορίες/Σημειώσεις:</label>
-    <textarea name="Μήνυμα" required rows="6"></textarea>
-    
-    <button type="submit">Υποβολή Πληροφοριών</button>
-    </form>
-</div>
+<form
+  action="https://formspree.io/f/xdkpqokk"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 </div>
 
 ---

@@ -17,9 +17,9 @@ permalink: /about/
 </p>
 
 ---
-# Κρυπτογραφικοί όροι Κινήματος Εθνικής Αμύνης
+# Τι ποσοστό των Ελλήνων αξιωματικών υποστήριξε το Κίνημα Εθνικής Αμύνης του 1916;
 📽️ Παρακολούθησε ένα αξιόλογο video : <a href="https://www.youtube.com/shorts/8bJyH2R9G9U"><img src="https://pajoanna-hub.github.io/heritage-promotion/assets/js/video.png" 
-alt="Κρυπτογραφικοί όροι Κινήματος Εθνικής Αμύνης" width="80" height="100" border="5" /></a>
+alt="Τι ποσοστό των Ελλήνων αξιωματικών υποστήριξε το Κίνημα Εθνικής Αμύνης του 1916;" width="80" height="100" border="5" /></a>
 
 ---
 

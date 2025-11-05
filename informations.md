@@ -74,20 +74,20 @@ permalink: /info/
 Χρησιμοποιήστε την παρακάτω φόρμα για να μας στείλετε σύντομες βιογραφικές σημειώσεις ή πληροφορίες.
 </p>
 
-<form action="https://pajoanna-hub.github.io/heritage-promotion" method="POST">
-    <label for="name">👤 Ονοματεπώνυμο:</label>
-    <input type="text" name="Όνομα" required>
-    
-    <label for="email">✉️ Email:</label>
-    <input type="email" name="Email" required>
-    
-    <label for="message">📜 Πληροφορίες/Σημειώσεις:</label>
-    <textarea name="Μήνυμα" required rows="6"></textarea>
-    
-    <button type="submit">Υποβολή Πληροφοριών</button> 
-    <a href="mailto:inf.dig2408@ionio.gr?subject=Συμβολή%20για%20το%20Κίνημα%20Εθνικής%20Άμυνας&body=Αγαπητή%20Ομάδα%2C%0A%0AΕπιθυμώ%20να%20σας%20παραχωρήσω%20πληροφορίες%20για%20τον/την...%0A%0A%5BΕπικοινωνία%20μου%5D%3A%0A">
-    <strong style="font-size: 1.2em; color: #153664;">inf.dig2408@ionio.gr</strong>
-  </a>
+<form
+  action="https://formspree.io/f/xldoqeeb"
+  method="POST"
+>
+  <label>
+    Your email:inf.dig2408@ionio.gr
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message: Ευχαριστούμε για την επικοινωνία σας
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
 </div>
 

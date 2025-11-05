@@ -84,7 +84,10 @@ permalink: /info/
     <label for="message">📜 Πληροφορίες/Σημειώσεις:</label>
     <textarea name="Μήνυμα" required rows="6"></textarea>
     
-    <button type="submit">Υποβολή Πληροφοριών</button>
+    <button type="submit">Υποβολή Πληροφοριών</button> 
+    <a href="mailto:inf.dig2408@ionio.gr?subject=Συμβολή%20για%20το%20Κίνημα%20Εθνικής%20Άμυνας&body=Αγαπητή%20Ομάδα%2C%0A%0AΕπιθυμώ%20να%20σας%20παραχωρήσω%20πληροφορίες%20για%20τον/την...%0A%0A%5BΕπικοινωνία%20μου%5D%3A%0A">
+    <strong style="font-size: 1.2em; color: #153664;">inf.dig2408@ionio.gr</strong>
+  </a>
 </form>
 </div>
 
